@@ -1,2 +1,3 @@
 # Customer_analytics
 Customer spend analytics that describes a story how and where a customer spends money.
+This project takes you through a journey of how and where a customer spends most of his/her money. Basically, there are several factors to consider that includes the age, location, discounts etc which are considered to be the dependent parameters here. Time series has been shown using line charts, location based analysis etc., Tableau public has been used for visualization and MS Excel has been used for data preprocessing. Interactive dashboard will ride you through a journey filled with anecdotes that will enable you to know more about customer spend analysis. 
